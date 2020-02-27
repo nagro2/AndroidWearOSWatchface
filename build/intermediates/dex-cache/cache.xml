@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/njadeb64/.android/build-cache/f97949b8307c3d1f976863ec40a6be4c1f4b3216/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/pre-dexed/debug/classes_574d374b8fe55d05b9ccdfb1c324890f3de6f2ea.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/3-hands/build/intermediates/res/merged/debug/layout-v23/action_drawer_peek_view.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/layout-v23/action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/3-hands/build/intermediates/res/merged/debug/layout-v23/wearable_drawer_view.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/layout-v23/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/3-hands/build/intermediates/res/merged/debug/layout-v23/action_drawer_item_view.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/layout-v23/action_drawer_item_view.xml"
+    }
+]

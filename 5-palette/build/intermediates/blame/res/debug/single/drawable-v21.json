@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_negative_bg.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/ic_cc_checkmark.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/preference_wrapped_icon.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/preference_wrapped_icon.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/ic_expand_more_white_22.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/ic_expand_more_white_22.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_positive_bg.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/accept_deny_dialog_positive_bg.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/ic_cc_clear.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/ic_cc_clear.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/drawable-v21/open_on_phone_animation.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v21/open_on_phone_animation.xml"
+    }
+]

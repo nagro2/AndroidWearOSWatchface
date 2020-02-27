@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/drawable-nodpi/preview_analog.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/src/main/res/drawable-nodpi/preview_analog.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/drawable-nodpi/hand_second_image.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/src/main/res/drawable-nodpi/hand_second_image.png"
+    }
+]

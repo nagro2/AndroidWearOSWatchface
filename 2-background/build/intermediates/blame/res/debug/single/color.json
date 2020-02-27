@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/color/card_grey_text_color.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/color/card_grey_text_color.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/color/circular_button.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/color/circular_button.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/2-background/build/intermediates/res/merged/debug/color/card_text_color.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/color/card_text_color.xml"
+    }
+]

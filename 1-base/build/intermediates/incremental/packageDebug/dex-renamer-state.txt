@@ -1,0 +1,4 @@
+#Wed Feb 26 20:35:55 EST 2020
+base.0=/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

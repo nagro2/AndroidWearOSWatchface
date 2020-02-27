@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:18:1-59:12
+	package
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:20:5-44
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:22:19-61
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:25:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:26:22-65
+application
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:28:5-57:19
+MERGED from [com.android.support:palette-v7:23.3.0] /home/njadeb64/.android/build-cache/f97949b8307c3d1f976863ec40a6be4c1f4b3216/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.support:wearable:2.0.0] /home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] /home/njadeb64/.android/build-cache/341dfe1a2c41a74dafbe1b2054705c57a83ab4a4/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/njadeb64/.android/build-cache/400982749c7113ade99618484b4b35ff064fee92/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/njadeb64/.android/build-cache/bc019e1b529f969dd7dfe55081215a622f665c2e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/njadeb64/.android/build-cache/b3a844826acb99e3a936931c4b0d31529a65f2b8/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/njadeb64/.android/build-cache/ff95eff7c0f801e2943a72a1320f72d7940d5594/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:30:9-41
+	tools:ignore
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:32:9-46
+	android:allowBackup
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:31:9-59
+service#com.android.example.watchface.MyWatchFaceService
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:33:9-52:19
+	android:label
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:35:13-51
+	android:permission
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:34:13-47
+meta-data#android.service.wallpaper
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:38:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:40:13-42:63
+	android:resource
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:42:17-60
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:41:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:43:13-45:63
+	android:resource
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:45:17-60
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:44:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:47:13-51:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:48:17-85
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:48:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:50:17-102
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:50:27-99
+meta-data#com.google.android.gms.version
+ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:54:9-56:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/njadeb64/.android/build-cache/b3a844826acb99e3a936931c4b0d31529a65f2b8/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml:55:13-58
+uses-sdk
+INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:palette-v7:23.3.0] /home/njadeb64/.android/build-cache/f97949b8307c3d1f976863ec40a6be4c1f4b3216/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.support:wearable:2.0.0] /home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] /home/njadeb64/.android/build-cache/341dfe1a2c41a74dafbe1b2054705c57a83ab4a4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/njadeb64/.android/build-cache/263c7f204aa4a57b42b7b5db1c8b7fb624e583ec/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /home/njadeb64/.android/build-cache/400982749c7113ade99618484b4b35ff064fee92/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/njadeb64/.android/build-cache/bc019e1b529f969dd7dfe55081215a622f665c2e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/njadeb64/.android/build-cache/b3a844826acb99e3a936931c4b0d31529a65f2b8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/njadeb64/.android/build-cache/ff95eff7c0f801e2943a72a1320f72d7940d5594/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /home/njadeb64/.android/build-cache/ff95eff7c0f801e2943a72a1320f72d7940d5594/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+		INJECTED from /home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/njadeb64/.android/build-cache/56804f8dda02ef3c695755150e28b5810aa4fe3e/output/AndroidManifest.xml:19:19-85

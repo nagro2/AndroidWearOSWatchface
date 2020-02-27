@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/zenith1_custom_background.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/zenith1_custom_background.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/hand_minute_image.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/hand_minute_image.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/hand_hour_image.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/hand_hour_image.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/rolex5_custom_background.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/rolex5_custom_background.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/preview_analog.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/preview_analog.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/hand_second_image.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/hand_second_image.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/build/intermediates/res/merged/debug/drawable-nodpi/bremont_custom_background.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/watchface-master/1-base/src/main/res/drawable-nodpi/bremont_custom_background.png"
+    }
+]

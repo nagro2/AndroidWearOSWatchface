@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_more_horiz_24dp_wht.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_center.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_cc_settings_button_center.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/action_item_icon_background.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/action_item_icon_background.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/action_item_background.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/action_item_background.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_e.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_cc_settings_button_e.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_more_vert_24dp_wht.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_expand_less_white_22.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_expand_less_white_22.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_top.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_cc_settings_button_top.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/4-ambient/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_bottom.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/drawable-v23/ic_cc_settings_button_bottom.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/layout-v21/dismiss_overlay.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/layout-v21/dismiss_overlay.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/layout-v21/overlay_confirmation.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/layout-v21/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/watchface-master/5-palette/build/intermediates/res/merged/debug/layout-v21/accept_deny_dialog.xml",
+        "source": "/home/njadeb64/.android/build-cache/b264ec3f1aefe924f3fb8f692d71393706b3b5cd/output/res/layout-v21/accept_deny_dialog.xml"
+    }
+]
